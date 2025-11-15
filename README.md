@@ -1,6 +1,5 @@
 # EX---3-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
-## Name : Ragavan E
-## RegNo: 212223040160
+
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
 
